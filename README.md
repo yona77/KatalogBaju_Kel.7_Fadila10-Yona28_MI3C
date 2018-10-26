@@ -1,8 +1,9 @@
-# KatalogBaju_Kel.7_Fadila10-Yona28_MI3C
-# Ini adalah katalog Baju Wanita yang terdiri dari blouse maupun kaos
-# Dengan aplikasi ini memudahkan seseorang untuk meneliti barang sebelum membelinya
+Ini adalah web tentang katalog baju wanita
+Berisikan tentang kumpulan baju wanita
+dari blouse maupun kaos.
 
-#Disusun oleh :
-# MI 3C
-#FADILA SETYABUDI (10)
-#YONA NARULITA (28)
+Disusun oleh :
+	Fadila Setyabudi (10)
+	Yona Narulita	 (28)
+Kelas MI - 3C
+Kelompok 7
